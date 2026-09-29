@@ -17,8 +17,7 @@ giving ten configurations in total.
 ```
 layout-aware-fast-ace/
 ├── src/        MATLAB source code
-├── images/     place input images here
-└── results/    enhanced images are saved here
+
 ```
 
 ## Files
